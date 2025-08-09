@@ -14,5 +14,6 @@ Exercitar boas práticas de semântica, responsividade e documentação.
 ## 🚀 Como executar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/eco-bytes-calculadora.git
+git clone https://github.com/yurihay/eco-bytes-calculadora.git
 cd eco-bytes-calculadora
+
