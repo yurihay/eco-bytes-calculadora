@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EcoBytes — Calculadora de Eficiência</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🌱 EcoBytes</h1>
+    <p>Calcule a eficiência do seu processamento</p>
+  </header>
+
+  <main>
+    <form id="calcForm">
+      <label for="tempo">⏱️ Tempo de execução (segundos):</label>
+      <input type="number" id="tempo" required />
+
+      <label for="tamanho">💾 Tamanho do arquivo (MB):</label>
+      <input type="number" id="tamanho" required />
+
+      <button type="submit">Calcular Eficiência</button>
+    </form>
+
+    <div id="resultado"></div>
+  </main>
+
+  <footer>
+    <p>Desenvolvido por Yuri — ADS (EAD) 🚀</p>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
