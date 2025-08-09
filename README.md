@@ -11,6 +11,13 @@ Exercitar boas práticas de semântica, responsividade e documentação.
 - CSS
 - JavaScript
 
+-  📚 O que aprendi
+- Manipular elementos no DOM com JavaScript.
+- Estruturar um projeto web com HTML, CSS e JavaScript.
+- Publicar um site usando GitHub Pages.
+- Criar um README detalhado e organizado.
+- Utilizar CSS para criar layout responsivo e estilizado.
+
 ## ✨ Demonstração
 Acesse: https://yurihay.github.io/eco-bytes-calculadora/
 
